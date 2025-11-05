@@ -172,9 +172,3 @@ This project is released under the **MIT License**.
 You are free to modify and use it for learning or development.
 
 ---
-
-> “Turning data into dynamic, visual weather intelligence.”
-
-```
-
-```
